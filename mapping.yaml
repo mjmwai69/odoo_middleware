@@ -1,0 +1,17 @@
+customer:
+  name: name
+  email: email
+  phone: phone
+  address: street
+
+product:
+  name: name
+  price: list_price
+  description: description_sale
+  code: default_code
+
+order:
+  customer_id: partner_id
+  date: date_order
+  status: state
+  reference: name
